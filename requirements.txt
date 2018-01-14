@@ -1,0 +1,6 @@
+baidu_aip==2.1.0.0
+requests==2.12.4
+selenium==3.3.3
+facebook_wda==0.2.2.dev1
+Pillow==5.0.0
+aip==1.0.0.5
